@@ -3,4 +3,4 @@
 ## Recriando o famoso jogo do dinossauro sem internet
 Usando apenas **HTML , CSS E JAVASCRIPT**
 
-![image](https://user-images.githubusercontent.com/88461178/139555082-a93bd81c-ed00-4ee0-878b-e89e6d188e13.png)
+![image](https://user-images.githubusercontent.com/88461178/139556372-7e0a7d24-719b-43a0-8f53-6e80b25e8454.png)

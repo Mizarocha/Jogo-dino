@@ -1,5 +1,6 @@
 body {
-  background:rgb(174, 211, 119);
+  background-image: url(fundo.jpg);
+  color:black;;
   color:black;
   text-align: center;
   }

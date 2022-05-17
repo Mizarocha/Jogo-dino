@@ -1,5 +1,5 @@
-# DIO-dino-game
-Recriando o famoso jogo do dinossauro sem internet. 
+# Jogo Dino game 
+Recriando o famoso jogo do dinossauro sem internet do projeto da DIO.
 
 Utilizando HTML, CSS E JAVASCRIPT. 
 
